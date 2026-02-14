@@ -3,7 +3,7 @@
 A highly interactive, deterministic 3x3 grid game built with **Next.js 14 (App Router)** and **Tailwind CSS**. This project demonstrates complex state management, ripple effects, and strictly typed interactions in a modern frontend architecture.
 
 ## 🚀 Live Demo
-[Deployed on Vercel](https://recurg.vercel.app) *(Replace with your actual URL)*
+[Deployment Link ](https://recursive-grid-sandy.vercel.app/) *(Replace with your actual URL)*
 
 ## 🎮 How to Play
 The game consists of a **3x3 grid** of boxes, initially all set to `0`.
